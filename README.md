@@ -48,7 +48,7 @@ Hovering over the social media icons triggers interactive effects:
 - **Instagram:** Icon color changes to pink, indicating a clickable link.
 
 ## Files and Directories
-- **screenshots/:** Directory containing screenshots of the TO-DO App.
+
 - **index.html:** Main HTML file for the app's structure.
 - **styles.css:** CSS file for styling the app.
 - **script.js:** JavaScript file for app functionality.
